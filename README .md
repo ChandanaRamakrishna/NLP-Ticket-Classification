@@ -3,7 +3,7 @@
 > NLP-Based Classification with TOPSIS Multi-Criteria Prioritization  
 > **By:** Chandana R | **Guide:** Ms. Smriti Kumari
 
-[![Streamlit App](https://chandanaramakrishna-nlp-ticket-classification-app-vop7q1.streamlit.app/)
+🚀 **Live App:** [Click here to open](https://chandanaramakrishna-nlp-ticket-classification-app-vop7q1.streamlit.app/)
 
 ---
 
