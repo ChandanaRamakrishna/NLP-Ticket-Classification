@@ -1,7 +1,8 @@
 # 🎫 AI-Driven Ticket Classification & Prioritization
 
 > NLP-Based Classification with TOPSIS Multi-Criteria Prioritization  
-> **By:** Chandana R | **Guide:** Ms. Smriti Kumari
+> **By:** Chandana R
+
 
 🚀 **Live App:** [Click here to open](https://chandanaramakrishna-nlp-ticket-classification-app-vop7q1.streamlit.app/)
 
