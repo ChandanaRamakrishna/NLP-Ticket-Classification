@@ -1,0 +1,16 @@
+{
+  "dataset": "CFPB complaints (cleaned, non-empty)",
+  "best_model": "Logistic Regression",
+  "metric": "weighted F1",
+  "macro_f1": 0.712,
+  "n_train": 16854,
+  "n_test": 4214,
+  "n_raw_classes": 17,
+  "baseline_raw_label_f1": 0.641,
+  "models": {
+    "Logistic Regression": 0.802,
+    "Decision Tree": 0.683,
+    "Naive Bayes": 0.721,
+    "Random Forest": 0.773
+  }
+}
